@@ -1,0 +1,4 @@
+{
+  // react has a preset such that the jsx files can be transpiled
+  "presets": ["babel-preset-env", "react"]
+}
